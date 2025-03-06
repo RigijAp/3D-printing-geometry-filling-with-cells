@@ -1,1 +1,1 @@
-The Matlab script is usefull for fillig the 3D printing geometries with inner periodeical cell structures for 3D printing. The script runs COMSOL (CAD package) from Matlab which significantly speed the process.
+The Matlab script is usefull for fillig the 3D printing geometries with inner periodeical cell structures for 3D printing. The script runs COMSOL (CAD package) from Matlab which significantly speed the process. The COMSOL and Matlab versions don't matter.
